@@ -11,5 +11,6 @@ b = 10
 suma = a+b
 print("La suma es:" + str(suma))
 
-
-
+resta = a-b
+print("La resta es:" + str(resta))
+ 
