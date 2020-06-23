@@ -77,5 +77,3 @@ print(f"b != 8", b != 8)
 #%%
 print(f"a > b and b != 8", a > b and b != 8)
 print(f"a > b and b != 8", a > b and b != 2) 
-
-
