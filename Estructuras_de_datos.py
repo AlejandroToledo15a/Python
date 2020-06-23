@@ -4,7 +4,7 @@ Las estructuras de datos son aquellos objetos que se usan para almacenar informa
 # Listas, son conjuntos de elementos ordenados donde cada elemento tiene una posición.
 # Las estructuras de datos son aquellos objetos que se usan para almacenar información. Hay muchos tipos, estos son los básicos.
 # Listas, son conjuntos de elementos ordenados donde cada elemento tiene una posición.
-# cero
+
 #%%
 frutas = ["naranja","manzana","pera","fresa","coco","platano"]
 print(frutas)
